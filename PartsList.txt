@@ -1,0 +1,43 @@
+Syringe Parts List:
+
+1 	Arduino  Uno - $24.95
+https://www.adafruit.com/products/50
+
+1 	GShield - $49.99
+http://synthetos.myshopify.com/products/gshield-v5
+
+1	Stepper Motor - Bipolar- 1.8° -  $8.99
+	http://www.automationtechnologiesinc.com/products-page/3d-printer/nema17-stepper-motor-kl17h247-150-4a-for-3d-printer
+
+1	Limit Switch - $2.35
+http://www.amazon.com/Micro-Limit-Switch-Lever-Subminiature/dp/B005CS6Y3M
+
+1	Power Supply - 12 volt - 30A- $25.00
+	Any 12 volt output power supply of 3 amp or more will work if all you are running is the syringe. My intention is to use the same suppy for this as well as all the other power for the electrospinner, so mine is 30A.
+
+
+1	 T-sloted Extrusion - 1" x 1" x 12" - $4.99
+ http://www.amazon.com/80-20-Series-T-Slotted-Extrusion/dp/B00BMTYGTE/ref=pd_sim_328_4?ie=UTF8&dpID=41Ywp9lz2rL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=1TRCHC9WBGHHT8B0P3KR
+
+5 	T-Nut with Bolt.  $10.00
+http://www.amazon.com/80-20-Inc-Series-Assembly/dp/B00FDSEOWY/ref=pd_sim_328_1?ie=UTF8&dpID=41STJcY5qKL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=1WXH7SZB2S53ZWT0XA0V
+
+1	Threaded Rod - 5/16-18. Stainless Steel. $2.18
+http://www.mcmaster.com/#90575a275/=11t393x
+1	5/16 Nut- Stainless Steel - $5.92 Pack of 50.
+http://www.mcmaster.com/#94804a030/=11t3aat
+
+Misc small bolts, nuts, screws. You'll most likely have these laying in your parts drawers.
+
+3D Printed Files:
+1	CarriageScrewHolder.stl
+1	PlungerCarriageSlide.stl
+1	PlungerMount.stl
+1	PlungerMountCap.stl
+1	PlungerMountThreadedRod.stl
+1	ShaftCoupler5-16.stl
+1	ShaftCouplerSmall.stl
+1	SwitchMount.stl
+1	SyringeBodyMount.stl
+1	SyringMotorMount.stl
+1	SyringTipMount.stl
